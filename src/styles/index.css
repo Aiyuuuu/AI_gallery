@@ -6,7 +6,9 @@
 }
 
 body{
+    height: auto;
     display: flex;
+    background-color: #28292e ;
 }
 
 #root{

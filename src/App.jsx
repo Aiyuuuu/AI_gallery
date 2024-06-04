@@ -1,5 +1,7 @@
+import React from 'react'
 import Header from "./components/Header/Header.jsx";
 import Filters from "./components/Filters/Filters.jsx";
+
 
 function App() {
 
@@ -14,3 +16,4 @@ function App() {
 
 
 export default App
+
